@@ -3,7 +3,7 @@ function love.conf(t)
 	t.author = "ecbambrick"
 	t.url = ""
 	t.version = "0.8.0"
-    t.release = true
+    t.release = false
     t.screen.width = 50*13
     t.screen.height = 35*13+15
     t.screen.fullscreen = false
