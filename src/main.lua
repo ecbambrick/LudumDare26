@@ -6,9 +6,9 @@ function love.load()
 
 	-- load graphics and graphical settings
 	love.graphics.setBackgroundColor(colors.beige)
-	fontL = love.graphics.newFont("font/GOTHIC.TTF", 72)
-	fontM = love.graphics.newFont("font/GOTHIC.TTF", 42)
-	fontS = love.graphics.newFont("font/GOTHIC.TTF", 24)
+	fontL = love.graphics.newFont("font/Questrial-Regular.ttf", 72)
+	fontM = love.graphics.newFont("font/Questrial-Regular.ttf", 42)
+	fontS = love.graphics.newFont("font/Questrial-Regular.ttf", 24)
 	particle = love.graphics.newImage("image/particle.png")
 	
 	-- load sounds
